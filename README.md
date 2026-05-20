@@ -1,1 +1,59 @@
-# ingrid
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20a%20Ingrid!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+---
+
+### 💜 Sobre mim
+
+```javascript
+const Ingrid = {
+  curso:       "Análise e Desenvolvimento de Sistemas",
+  paixões:     ["desenvolvimento Full Stack", "tecnologia", "aprendizado contínuo"],
+  atualmente:  "construindo meus primeiros projetos 🚀",
+  curiosidade: "cada linha de código é uma nova conquista ✨"
+};
+```
+
+---
+
+### 🛠️ Tecnologias que estou aprendendo
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+---
+
+### 📊 Minhas estatísticas
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Psdarlyn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psdarlyn&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+
+---
+
+### 🔥 Sequência de contribuições
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Psdarlyn&theme=tokyonight&hide_border=true"/>
+
+---
+
+### 🚀 Meus projetos
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🌦️ [SKYREAD](https://github.com/Psdarlyn/SKYREAD) | Site de previsão do tempo | HTML, CSS, JS |
+
+---
+
+### 📈 Atividade recente
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Psdarlyn&theme=tokyo-night&hide_border=true"/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
