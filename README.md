@@ -29,15 +29,8 @@ const Ingrid = {
 
 ### 📊 Minhas estatísticas
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Psdarlyn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-&nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psdarlyn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+![Minhas Stats](https://github-readme-stats.vercel.app/api?username=Psdarlyn&show_icons=true&theme=tokyonight&hide_border=true)
 
----
-
-### 🔥 Sequência de contribuições
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Psdarlyn&theme=tokyonight&hide_border=true"/>
 
 ---
 
