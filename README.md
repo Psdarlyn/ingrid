@@ -3,18 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Olá,%20eu%20sou%20a%20Ingrid!%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 ---
-
 ### 💜 Sobre mim
 
-```javascript
-const Ingrid = {
-  curso:   "Análise e Desenvolvimento de Sistemas",
-  paixões: "desenvolvimento Full Stack", "tecnologia", "aprendizado contínuo",
-  atualmente:"construindo meus primeiros projetos 🚀",
-  curiosidade:"cada linha de código é uma nova conquista ✨"
-};
-```
-
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Apaixonada por desenvolvimento **Full Stack** e tecnologia
+- 🚀 Construindo meus primeiros projetos do zero
+- ✨ Cada linha de código é uma nova conquista
+- 🤖 Aprendendo com auxílio de IA (Claude - Anthropic)
 ---
 
 ### 🛠️ Tecnologias que estou aprendendo
