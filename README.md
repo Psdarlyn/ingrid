@@ -8,10 +8,10 @@
 
 ```javascript
 const Ingrid = {
-  curso:       "Análise e Desenvolvimento de Sistemas",
-  paixões:     ["desenvolvimento Full Stack", "tecnologia", "aprendizado contínuo"],
-  atualmente:  "construindo meus primeiros projetos 🚀",
-  curiosidade: "cada linha de código é uma nova conquista ✨"
+  curso:   "Análise e Desenvolvimento de Sistemas",
+  paixões: "desenvolvimento Full Stack", "tecnologia", "aprendizado contínuo",
+  atualmente:"construindo meus primeiros projetos 🚀",
+  curiosidade:"cada linha de código é uma nova conquista ✨"
 };
 ```
 
